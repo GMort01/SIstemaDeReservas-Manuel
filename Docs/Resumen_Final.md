@@ -1,0 +1,8 @@
+## Resumen; 
+desarrollado una documentación continua para tu sistema de reservas de hotel, detallando las funcionalidades y las interfaces de usuario. Creaste mockups en formato PNG para visualizar la interfaz, y documentaste la arquitectura y los flujos de datos del proyecto. Además, has incluido el enlace a tu tablero ágil en el README principal, junto con tus datos personales. En resumen, has cumplido con todas las instancias de documentación que se solicitaron para el taller, demostrando la organización y el contenido requerido.
+
+## Conclucion:
+se concluye que el proyecto de repositorio de GitHub para el sistema de reservas de hotel cumple con las expectativas del taller, al documentar clara y exhaustivamente las funcionalidades, interfaces y la arquitectura del proyecto. La inclusión de la documentación continua, los mockups y los diagramas, junto con el enlace al tablero ágil, demuestra una organización y un desarrollo completos del trabajo en equipo. Este enfoque metódico facilita la comprensión y el seguimiento de la evolución del proyecto.
+
+## Comandos Git:
+`git add .` - Este comando añade todos los archivos modificados o nuevos al área de preparación. 2. `git commit -m "Mensaje del commit"` - Aquí creas un nuevo commit con un mensaje descriptivo de los cambios. 3. `git push origin main` - Este comando envía los commits de tu rama main al repositorio remoto `origin` (que es el enlace de GitHub).
